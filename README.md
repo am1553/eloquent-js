@@ -1,1 +1,1 @@
-# eloquent-js
+# Projects from Eloquent JavaScript by Marijn Haverbeke
